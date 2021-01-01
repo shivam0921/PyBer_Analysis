@@ -15,13 +15,25 @@ This analysis will also help company to find the target auidence and how to over
 The analysis is performed on human settlements (Urban, Suburban, Rural) riders, frivers, fares and taking out average overall. These some key points will help Riding Sharing app Company to perform perfomance analysis and depict the strongest and weakest point of company.
 
 1.![Riders by City Type](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/Fig6.png)
-    As per the pie chart analysis we can see the Urban riders constitue 68% of all rides, while suburban take up to 26% and rural 5%. This depicts that ride sharing company         generates maximum revenue from Urban city where the riders use the ride sharing app.
+As per the pie chart analysis we can see the Urban riders constitue 68% of all rides, while suburban take up to 26% and rural 5%. This depicts that ride sharing company         generates maximum revenue from Urban city where the riders use the ride sharing app.
 
 2.![Drivers by City Type](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/Fig7.png)
-   The Second chart says where the drivers use the App and drivers for the company maximum drivers like to drive in Urban areas as of other human settlement as they get maximum      number of riders.
+The Second chart says where the drivers use the App and drivers for the company maximum drivers like to drive in Urban areas as of other human settlement as they get maximum number of riders.
 
    The overall PyBer fare summary is presented in the image below:
 
   ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+  
+  As all the analysis and graphs depicts that all the traffic is towards urban cities where the Comapny generates maximum revenue.
 
 ## Recommendations Summary
+
+The analysis is been very modest and just counting high level metrics like avg rider and driver count.
+
+We can do more deep analysis and help company to make more solid management decisions:
+
+- [x] In the app we can introduce the new feature where we have an option to count of people driving in the car.
+- [x] Right now we are just doing analyis on overall perfomance of city to do more deep analyis we should look for traffic hotspots(Hotels, Office Buildings) where maximum      request comes to driver for rides . 
+- [x] Analysis can be done on different days of week, peak times of a day, Holidays.
+- [x] We can look for the bus schedules and metro schedules and offer customer discounts and driver perks to increase incoming requests.  
+
