@@ -7,9 +7,9 @@ This analysis will also help company to find the target auidence and how to over
 ## Resources 
 ** Data : **[Ride Share Data](https://github.com/shivam0921/PyBer_Analysis/tree/main/Resources)
  
-** Tools : ** Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
+ ** Tools : ** Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
 
-** Code : **  [Code in Juypter Notebook](https://github.com/shivam0921/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+ ** Code : **  [Code in Juypter Notebook](https://github.com/shivam0921/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 
 ## Analysis
 ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
