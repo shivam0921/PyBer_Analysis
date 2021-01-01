@@ -22,11 +22,11 @@ As per the pie chart analysis we can see the Urban riders constitue 68% of all r
 
 The Second chart says where the drivers use the App and drivers for the company maximum drivers like to drive in Urban areas as of other human settlement as they get maximum number of riders.
 
-   ** The overall PyBer fare summary is presented in the image below:
+   **The overall PyBer fare summary is presented in the image below:**
 
   ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
   
- ** As all the analysis and graphs depicts that all the traffic is towards urban cities where the Comapny generates maximum revenue.
+ **As all the analysis and graphs depicts that all the traffic is towards urban cities where the Comapny generates maximum revenue.**
 
 ## Recommendations Summary
 
