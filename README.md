@@ -5,8 +5,8 @@ The PyBer Analysis is creating a summary DataFrame of the ride-sharing data by c
 This analysis will also help company to find the target auidence and how to overcome different challenges that they might face in future.
 
 ## Resources 
-Data:[Ride Share Data](https://github.com/shivam0921/PyBer_Analysis/tree/main/Resources)
-Tools: Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
+- [x] Data:[Ride Share Data](https://github.com/shivam0921/PyBer_Analysis/tree/main/Resources)
+-[x] Tools: Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
 ## Analysis
 ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
