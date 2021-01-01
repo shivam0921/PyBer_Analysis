@@ -5,13 +5,23 @@ The PyBer Analysis is creating a summary DataFrame of the ride-sharing data by c
 This analysis will also help company to find the target auidence and how to overcome different challenges that they might face in future.
 
 ## Resources 
-- [x] The Data being used : [Ride Share Data](https://github.com/shivam0921/PyBer_Analysis/tree/main/Resources)
+- [x] The Data : [Ride Share Data](https://github.com/shivam0921/PyBer_Analysis/tree/main/Resources)
   
-  - [x] Tools: Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
+- [x] Tools: Jupyter Notebook , Stack Overflow, Python Packages(Pandas, Matplotlib)
 
-   - [x] Code: [Code in Juypter Notebook](https://github.com/shivam0921/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
+- [x] Code: [Code in Juypter Notebook](https://github.com/shivam0921/PyBer_Analysis/blob/main/PyBer_Challenge_starter_code.ipynb)
 
 ## Analysis
+The analysis is performed on human settlements (Urban, Suburban, Rural) riders, frivers, fares and taking out average overall. These some key points will help Riding Sharing app Company to perform perfomance analysis and depict the strongest and weakest point of company.
+
+![Riders by City Type](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/Fig6.png)
+
+As per the pie chart analysis we can see the Urban riders constitue 68% of all rides, while suburban take up to 26% and rural 5%. This depicts that ride sharing company generates maximum revenue from Urban city where the riders use the ride sharing app.
+
+![Drivers by City Type](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+The Second chart says where the drivers use the App and drivers for the company maximum drivers like to drive in Urban areas as of other human settlement as they get maximum number of riders.
+
 ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Recommendations Summary
