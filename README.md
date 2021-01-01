@@ -26,7 +26,7 @@ The Second chart says where the drivers use the App and drivers for the company 
 
   ![PyBer_summary_df.jpg](https://github.com/shivam0921/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
   
-  As all the analysis and graphs depicts that all the traffic is towards urban cities where the Comapny generates maximum revenue.
+ # As all the analysis and graphs depicts that all the traffic is towards urban cities where the Comapny generates maximum revenue.
 
 ## Recommendations Summary
 
